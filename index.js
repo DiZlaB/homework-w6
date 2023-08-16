@@ -1,4 +1,4 @@
-import axios from "../axios.min.js";
+import axios from "../axios.js";
 let todayDate = document.querySelector("#today");
 let now = new Date();
 function current(date) {
