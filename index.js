@@ -1,4 +1,4 @@
-import axios from "./axios.js";
+import axios from "..homework-";
 let todayDate = document.querySelector("#today");
 let now = new Date();
 function current(date) {
